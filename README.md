@@ -6,6 +6,8 @@ Official Proxy URLS of 123Movies as of December 2020:<br>
 * https://123movies-i.net
 * https://123movies-en.org
 
+##
+
 ### 123Movies in the test: film and series selection
 
 It is difficult to compare the streaming services offered. On the one hand, the catalogs of films and series are constantly changing due to expiring license rights. On the other hand, providers are now concentrating more and more on so-called exclusive content, also known as originals - i.e. films and series that are only available from one provider or that they even produce themselves. That is why 123Movies is not just checking a shopping cart of popular films and series in the test of streaming services, but also had a ten-person jury of streaming users in the editorial team evaluate the offer. The clear winner here: 123Movies. Compared to the competition with Prime Video, Disney Plus, Apple TV Plus and Sky Ticket Entertainment + Cinema, there are not only the most, but also the best films and series - regardless of the category: whether documentary, funny series or drama. Exception: When it comes to children's films and series, Disney Plus has the edge.
