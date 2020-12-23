@@ -1,6 +1,6 @@
 # 123Movies
 
-Official Proxy URLS of 123Movies:<br>
+Official Proxy URLS of 123Movies as of December 2020:<br>
 
 * https://123movies-to.org
 * https://123movies-i.net
