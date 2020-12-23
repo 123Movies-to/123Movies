@@ -3,7 +3,7 @@
 Official Proxy URLS of 123Movies:<br>
 
 ```http
-<a href="https://123movies-to.org">123Movies-to.org</a>
+https://123movies-to.org
 
 <a href="https://123movies-to.org">123Movies-to.org</a>
 
