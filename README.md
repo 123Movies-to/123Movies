@@ -3,22 +3,8 @@
 Official Proxy URLS of 123Movies:<br>
 
 * https://123movies-to.org
-
-* <a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-
-<a href="https://123movies-to.org">123Movies-to.org</a>
-```
-
+* https://123movies-i.net
+* https://123movies-en.org
 
 ### 123Movies in the test: film and series selection
 
