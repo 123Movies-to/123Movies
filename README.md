@@ -4,7 +4,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="https://lh4.googleusercontent.com/M2SF16VE7Y0ixo0hZC64LCFEjBUC2bzbhof58pew5DuGCN44bPDM76htvXhwnvpRCiYyFrsXPEtMhXXbduLCnC439ETk1nK93mjHIHua9nPbwiqlXg=w1280" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" border="10" /></a>
 
 
 Official Proxy URLS of 123Movies as of December 2020:<br>
