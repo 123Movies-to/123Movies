@@ -1,6 +1,6 @@
 # 123Movies
 
-![alt text](https://lh4.googleusercontent.com/M2SF16VE7Y0ixo0hZC64LCFEjBUC2bzbhof58pew5DuGCN44bPDM76htvXhwnvpRCiYyFrsXPEtMhXXbduLCnC439ETk1nK93mjHIHua9nPbwiqlXg=w1280 "Logo")
+[logo]: https://lh4.googleusercontent.com/M2SF16VE7Y0ixo0hZC64LCFEjBUC2bzbhof58pew5DuGCN44bPDM76htvXhwnvpRCiYyFrsXPEtMhXXbduLCnC439ETk1nK93mjHIHua9nPbwiqlXg=w1280 "Logo Title Text 2"
 
 Official Proxy URLS of 123Movies as of December 2020:<br>
 
